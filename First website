@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>cute dogs</title>
+</head>
+<body>
+
+<h1>YOUR BEST FRIEND</h1>
+
+<p>Dogs. There's a reason we call them man's best friend. We can learn so many things from a dog's behavior, personality, demeanor, resiliency, and most importantly, the willingness to provide their family members with unconditional love, loyalty, and companionship down to their very last breath.</p>
+
+<h2>Reasons Why Dogs Are Man’s Best Friend</h2>
+
+<ol>
+  <li>Dogs never judge you.</li>
+  <li>They’re hands down the best listeners</li>
+  <li>They’re always excited to see you, regardless of how long you spent apart.</li>
+  <li>You can undoubtedly count on their loyalty</li>
+  <li>A dog will never criticize you</li>
+  <li>And they're seldom in a bad mood</li>
+  <li>They know how to appreciate the simple things</li>
+</ol>
+
+<h3>Hiperlink</h3>
+
+<a href="https://www.theodysseyonline.com/reasons-dogs-mans-best-friend">Understand the reasons</a>
+
+<h2>What Are the Cutest Dog Breeds?</h2>
+
+<ul>
+  <li>Cavalier King Charles Spaniel</li>
+</ul>
+
+<img src="https://cdn2-www.dogtime.com/assets/uploads/gallery/cavalier-king-charles-spaniel-dog-breed-pictures/6-sittingforward.jpg" alt="Picture of a Cavalier King Charles Spaniel" >
+
+<ul>
+  <li>Pug</li>
+</ul>
+
+<img src="https://www.purina.com.au/-/media/Project/Purina/Main/Breeds/Dog/Mobile/Dog_Pugs_Mobile.jpg?h=300&la=en&w=375&hash=5BF9CFC4E6FC7347E6FDA383E42D8A52" alt="Picture of a Pug">
+
+<ul>
+  <li>Pomeranian</li>
+</ul>
+
+<img src="https://www.purina.com.au/-/media/Project/Purina/Main/Breeds/Dog/Mobile/Dog_Pomeranian_Mobile.jpg?h=300&la=en&w=375&hash=C057DC10E58E3C43347D2727117C66A0" alt="Picture of a Pomeranian" >
+
+<h3>Particulars</h3>
+
+<table>
+  <colgroup>
+    <col span="2" style="background-color:yellow">
+    <col style="background-color:yellow">
+  </colgroup>
+  <tr>
+    <th>Breed</th>
+    <th>Size</th>
+    <th>Weight</th>
+  </tr>
+  <tr>
+    <td>Cavalier King Charles Spaniel</td>
+    <td>30 – 33 cm</td>
+    <td>5.9 – 8.2 kg</td>
+  </tr>
+  <tr>
+    <td>Pug</td>
+    <td>25 – 36 cm</td>
+    <td>6.35 – 8.16 kg</td>
+  </tr>
+  <tr>
+    <td>Pomeranian</td>
+    <td>43 – 53 cm</td>
+    <td>13.6 – 22.6 kg</td>
+  </tr>
+
+</table>
+
+</body>
+
+</html>
+
