@@ -1,18 +1,51 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
 <title>Best Friends</title>
-</head>
   <link rel="stylesheet" href="styles.css">
 <style>
-#myHeader {color: firebrick; text-align: center;}
-body {font-size:17px}
+body {font-size: 17px;}
+* {
+  box-sizing: border-box;
+}
+nav {
+  float: right;
+  width: 30%;
+  text-align: center;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+article {
+  float: right;
+  width: 70%;
+}
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
 </style>
-
+</head>
 <body>
 
-<h1 id="myHeader"><a id="top" style="font-family: verdana;">YOUR BEST FRIEND</h1>
+<h1 style="color: firebrick; text-align: center; font-family: verdana">YOUR BEST FRIEND</h1>
 
+<section>
+<nav>
+    <ul>
+      <li><a href="file:///C:/Users/CTI2019253/Documents/GitHub/hey-people/First%20website%20pg%202.htm">Cute Videos</a></li>
+    </ul>
+  </nav>
+
+<article>
 <p>Dogs. There's a reason we call them man's best friend. We can learn so many things from a dog's behavior, personality, demeanor, resiliency, and most importantly, the willingness to provide their family members with unconditional love, loyalty, and companionship down to their very last breath.</p>
 
 <h2 style="font-family: verdana;">Reasons Why Dogs Are Man’s Best Friend</h2>
@@ -79,6 +112,8 @@ body {font-size:17px}
 </table>
 
 <a href="#top">Go to top</a>
+</article>
+</section>
 </body>
 
 </html>

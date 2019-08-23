@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<title>Best Friends</title>
+  <link rel="stylesheet" href="styles.css">
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {font-size: 17px;}
+nav {
+  float: right;
+  width: 30%;
+  height: 300px; 
+  background: #ccc;
+  padding: 20px;
+  text-align: center
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+article {
+  float: right;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px;
+}
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<script src="myScript.js"></script>
+
+</head>
+
+<body>
+
+<p>If you click on the "Hide" button, I will disappear.</p>
+
+
+
+<h1 style="color: firebrick; text-align: center; font-family: verdana">CUTE VIDEOS</h1>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="#">Video 1</a></li>
+      <li><a href="#">Video 2</a></li>
+      <li><a href="#">Video 3</a></li>
+    </ul></p>
+    <button id="hide">Hide</button>
+    <button id="show">Show</button>
+   </nav>
+ <article>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRMK77NUsyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </article>
+</section>
+</p>
+
+</body>
+
+</html>
+
